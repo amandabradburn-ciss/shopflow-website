@@ -1,7 +1,7 @@
 // Configuration - UPDATE THIS WITH YOUR NETLIFY URL
 const API_BASE_URL = window.location.hostname === 'localhost' 
     ? 'http://localhost:8888/.netlify/functions'
-    : 'https://curious-liger-12345.netlify.app/.netlify/functions';
+    : 'https://polite-sprite-9a4e63.netlify.app/.netlify/functions';
 
 let allProducts = [];
 
