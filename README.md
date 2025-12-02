@@ -12,13 +12,12 @@ The dataset itself is sample/mock data provided for the course and imported from
 Final Project Notebook:
 
 Google Colab Notebook (Full Data Cleaning + Import Pipeline):
-CISS340_E-commerce_final_Bradburn.ipynb
+[CISS340_E-commerce_final_Bradburn.ipynb](https://github.com/amandabradburn-ciss/shopflow-website/blob/main/CISS340_E-commerce_final_Bradburn.ipynb
+)
 
 Repository includes:
 
-CISS340_E-commerce_final_Bradburn.ipynb – full project notebook
-
-https://github.com/amandabradburn-ciss/shopflow-website/blob/main/CISS340_E-commerce_final_Bradburn.ipynb
+Full project notebook
 
 /netlify/functions/ – backend API (products, search, customer, analytics)
 
