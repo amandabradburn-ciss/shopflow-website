@@ -26,21 +26,36 @@ Frontend files – HTML, CSS, JavaScripts
 Project Setup Instructions
 
 1. Clone the repository
+   
    git clone https://github.com/amandabradburn-ciss/shopflow-website.git
+   
    cd shopflow-website
+   
 2. Install Netlify CLI (for local development)
+   
    npm install -g netlify-cli
+   
 3. Add your environment variables
+   
    Create a .env file or configure them in Netlify:
+   
    DB_HOST=
+   
    DB_PORT=
+   
    DB_USER=
+   
    DB_PASSWORD=
+   
    DB_DATABASE=
+   
    DB_SSL=true
+   
    Aiven requires SSL, so the functions must connect with encryption enabled.
 4. Run the site locally
+
    netlify dev
+   
 This launches the frontend and the serverless API functions in one environment.
 
 How the system works:
