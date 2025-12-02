@@ -17,8 +17,11 @@ CISS340_E-commerce_final_Bradburn.ipynb
 Repository includes:
 
 CISS340_E-commerce_final_Bradburn.ipynb – full project notebook
+
 https://github.com/amandabradburn-ciss/shopflow-website/blob/main/CISS340_E-commerce_final_Bradburn.ipynb
+
 /netlify/functions/ – backend API (products, search, customer, analytics)
+
 Frontend files – HTML, CSS, JavaScripts
 
 Project Setup Instructions
