@@ -8,9 +8,9 @@ https://polite-sprite-9a4e63.netlify.app/
 The site connects to a live cloud database on Aiven and displays product data, customer search results, and analytics.
 The dataset itself is sample/mock data provided for the course and imported from CSV files(not included).
 
-The full cleaning, schema creation, imports, queries, and visualizations are documented here:
-
-(Credentials removed for security. Notebook included in the repo.
+Final Project Notebook:
+Google Colab Notebook (Full Data Cleaning + Import Pipeline):
+CISS340_E-commerce_final_Bradburn.ipynb
 
 Repository includes:
 CISS340_E-commerce_final_Bradburn.ipynb – full project notebook
